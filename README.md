@@ -21,12 +21,15 @@ Adhere to the following principles:
 
 #### Example:
 
-##### Jane's Commands
-
+##### Jane's Commands.md
+Brief set of commands to view the working director, see what's in it, make a new directory
 ```
 pwd #get the current working directory
 ls #list the files/folders in the current working directory
 mkdir data #makes a new directory called data
+```
+Now delete that new directory:
+```
 rmdir data #deletes directory called data
 ```
 
@@ -38,7 +41,16 @@ Hints: Here are some commands and flags you might want to use:
 `cp -r`  
 `rm -r -I` #remember to use carefully!
 
+#### To Submit
+Your `.md` file
 
+#### How to Submit
+1) Fork the repository  
+2) Clone the repository to your computer  
+3) Modify the files  
+4) Commit changes  
+5) Push the changes up to GitHub  
+6) Create a pull request on the original repository to turn in the assignment. Make sure to include your name in the pull request.  
 
 
 
