@@ -21,8 +21,8 @@ Adhere to the following principles:
 
 #### Example:
 
-##### Jane's Commands.md
-Brief set of commands to view the working director, see what's in it, make a new directory
+##### JanesCommands.md
+Brief set of commands to view the working directory, see what's in it, make a new directory
 ```
 pwd #get the current working directory
 ls #list the files/folders in the current working directory
