@@ -5,7 +5,7 @@
 
 _Problem:_ You are getting ready to input all your field data and metadata from your 25 study sites.  You want to be sure that all your directories and files are organized in exactly the same way but pointing and clicking is time consuming and error prone.  You can solve this by writing a script to make the directories and files for you automagically.
 
-_Objective:_ Create a series of Unix commands that successfully:  
+_Objective:_ Create a series of Bash/Unix commands that successfully:  
 1) Creates the hierarchy of directories and files represented by the diagram on the next page.
 2) Then deletes them. You decided to quit your RA and be a river guide.  
 
