@@ -5,8 +5,11 @@
 _Problem:_ You are getting ready to input all your field data and metadata from your 25 study sites.  You want to be sure that all your directories and files are organized in exactly the same way but pointing and clicking is time consuming and error prone.  You can solve this by writing a script to make the directories and files for you automagically.
 
 _Objective:_ Create a series of Bash/Unix commands that successfully:  
-1) Creates the hierarchy of directories and files represented by the diagram on the next page.
+1) Creates the hierarchy of directories and files represented by the diagram below.
 2) Then deletes them. You decided to quit your RA and be a river guide.  
+
+![directory structure][./images/Slide1.jpeg]
+
 
 Adhere to the following principles:
 1)	Make the paths __absolute__ so that I can reproduce the structure on my machine simply by running your code.  
@@ -48,12 +51,6 @@ Your `.md` file
 2) Clone the repository to your computer  
 3) Modify the files  
 4) Commit changes  
-5) Push the changes up to GitHub 
+5) Push the changes up to GitHub
 6) Add your instructor as a collaborator
 7) Create a pull request on the original repository to turn in the assignment. Make sure to include your name in the pull request.  
-
-
-
- 
-
-
