@@ -1,5 +1,4 @@
-# HW_1
-## Homework 1 for GEOG693  
+# HW_1 for GEOG693  
 
 ## Basic Shell Exercise   
 
@@ -49,8 +48,9 @@ Your `.md` file
 2) Clone the repository to your computer  
 3) Modify the files  
 4) Commit changes  
-5) Push the changes up to GitHub  
-6) Create a pull request on the original repository to turn in the assignment. Make sure to include your name in the pull request.  
+5) Push the changes up to GitHub 
+6) Add your instructor as a collaborator
+7) Create a pull request on the original repository to turn in the assignment. Make sure to include your name in the pull request.  
 
 
 
