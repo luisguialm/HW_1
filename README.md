@@ -8,7 +8,7 @@ _Objective:_ Create a series of Bash/Unix commands that successfully:
 1) Creates the hierarchy of directories and files represented by the diagram below.
 2) Then deletes them. You decided to quit your RA and be a river guide.  
 
-![directory structure][./images/Slide1.jpeg]
+![directory structure](./images/Slide1.jpeg)
 
 
 Adhere to the following principles:
