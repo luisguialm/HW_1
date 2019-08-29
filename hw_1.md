@@ -1,4 +1,4 @@
-#Homework 1. Creating directories for a project
+# Homework 1. Creating directories for a project
 
 ## Part I: Creation of folder and files. 
 Code to create the directories and files
