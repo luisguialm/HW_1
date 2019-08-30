@@ -21,4 +21,4 @@ If you are risk adverse, it is a good idea to keep the code to remake your work.
 mkdir ~/.trash
 mv sites/ ~/.trash
 ```
-__LAG 2019-08-30__
+_LAG 2019-08-30_
